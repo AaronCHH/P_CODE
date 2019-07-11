@@ -1,6 +1,8 @@
-# Example
+# Functions
+
 Add the following function which returns the area. Note that a value/values can be returned with the function name itself.
 
+__Example__
 ```{vb}
 Function findArea(Length As Double, Optional Width As Variant)
    If IsMissing(Width) Then
