@@ -1,4 +1,4 @@
-# Excel Objects
+﻿# Excel Objects
 - [Excel Objects](#Excel-Objects)
   - [Introduction](#Introduction)
   - [Application Objects](#Application-Objects)
@@ -17,7 +17,7 @@ When programming using VBA, there are few important objects that a user would be
 * Range Objects
 
 ## Application Objects
-The Application object consists of the following −
+The Application object consists of the following
 
 Application-wide settings and options.
 Methods that return top-level objects, such as ActiveCell, ActiveSheet, and so on.
